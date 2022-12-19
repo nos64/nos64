@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋 I'm Mikhail
+## Front-end developer
+#### I can work with TypeScript, React, Redux, Webpack, SCSS, git, Figma, RestAPI. Experience in using any of the popular UI libraries for components in React.
 
-<!--
-**nos64/nos64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some projects:
+- ⚡ [Memory game](https://nos64-memory-game.netlify.app) [**repo**](https://github.com/nos64/memory-game-react)
+- ⚡ [Project Management App](https://rss-project-management-app.netlify.app/) [**repo**](https://github.com/nos64/task-manager_clone)
+- ⚡ [RS Lang](https://nos64-rslang.netlify.app/) [**repo**](https://github.com/nos64/rs-lang)
+- ⚡ [Rick & Morty API](https://nos64-module06.netlify.app/) [**repo**](https://github.com/nos64/rss_react-clone/tree/module06/first-app)
+- ⚡ [Async race (need some time to server wake up)](https://nos64.github.io/rs_asinc-race/dist/) [**repo**](https://github.com/nos64/rs_asinc-race)
+- ⚡ [Online store](https://nos64.github.io/rs_online-store/dist/) [**repo**](https://github.com/nos64/rs_online-store)
+- ⚡ [News JS](https://nos64-migration-to-ts.netlify.app/) [**repo**](https://github.com/nos64/migrationToTypeScript)
+- ⚡ [Virtual keyboard](https://github.com/nos64/virtual-keyboard/tree/develop) [**repo**](https://nos64.github.io/virtual-keyboard/src/)
+- ⚡ [Shelter](https://nos64.github.io/shelter/pages/main/) [**repo**](https://github.com/nos64/shelter)
+- ⚡ [Photographer’s portfolio](https://nos64.github.io/portfolio/) [**repo**](https://github.com/nos64/portfolio)
+- ⚡ [Custom video player](https://nos64.github.io/custom-video/) [**repo**](https://github.com/nos64/custom-video)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
