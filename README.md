@@ -9,7 +9,6 @@
 - ⚡ [Rick & Morty API](https://nos64-module06.netlify.app/) [**repo**](https://github.com/nos64/rss_react-clone/tree/module06/first-app)
 - ⚡ [Async race (need some time to server wake up)](https://nos64.github.io/rs_asinc-race/dist/) [**repo**](https://github.com/nos64/rs_asinc-race)
 - ⚡ [Online store](https://nos64.github.io/rs_online-store/dist/) [**repo**](https://github.com/nos64/rs_online-store)
-- ⚡ [News JS](https://nos64-migration-to-ts.netlify.app/) [**repo**](https://github.com/nos64/migrationToTypeScript)
 - ⚡ [Virtual keyboard](https://nos64.github.io/virtual-keyboard/src/) [**repo**](https://github.com/nos64/virtual-keyboard/tree/develop)
 - ⚡ [Shelter](https://nos64.github.io/shelter/pages/main/) [**repo**](https://github.com/nos64/shelter)
 - ⚡ [Photographer’s portfolio](https://nos64.github.io/portfolio/) [**repo**](https://github.com/nos64/portfolio)
