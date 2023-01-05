@@ -15,6 +15,4 @@
 - ⚡ [Custom video player](https://nos64.github.io/custom-video/) [**repo**](https://github.com/nos64/custom-video)
 
 
-<a href="https://github.com/nos64">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nos64&theme=nord&line_height=27&hide_langs_below=1&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nos64&layout=compact)](https://github.com/nos64/github-readme-stats)
