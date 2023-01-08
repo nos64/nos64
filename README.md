@@ -15,7 +15,7 @@
 - ⚡ [Custom video player](https://nos64.github.io/custom-video/) [**repo**](https://github.com/nos64/custom-video)
 
 ### Now I’m working:
- - ⚡ [YourMeal food shop](https://github.com/nos64/methed_burger)
+ - ⚡ [YourMeal food shop (need some time to server wake up)](https://github.com/nos64/methed_burger)
 
 <a href="https://github.com/nos64">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nos64&layout=compact" />
