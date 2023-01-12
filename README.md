@@ -17,11 +17,6 @@
 ### Now I’m working:
  - ⚡ [YourMeal food shop (need some time to server wake up)](https://github.com/nos64/methed_burger) -  React, Redux toolkit, redux-persist, React router, React-hook-form, TypeScript, SCSS, ESLint, Prettier, axios
 
-<a href="https://github.com/nos64">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nos64&layout=compact" />
-</a>
-
-
 
 ![](https://komarev.com/ghpvc/?username=nos64)
 </h3>
