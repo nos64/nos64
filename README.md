@@ -2,6 +2,7 @@
 ## Front-end developer
 #### I can work with TypeScript, React, Redux, Webpack, SCSS, git, Figma, RestAPI. Experience in using any of the popular UI libraries for components in React.
 
+
 ### Some projects:
 - ⚡ [Memory game](https://nos64-memory-game.netlify.app) [**repo**](https://github.com/nos64/memory-game-react) - React, Redux toolkit, React router, React-hook-form, TypeScript, SCSS, ESLint, Prettier, Vite
 - ⚡ [Project Management App](https://rss-project-management-app.netlify.app/) [**repo**](https://github.com/nos64/task-manager_clone) - React, Redux toolkit, React router, React-hook-form, TypeScript, SCSS, ESLint, Prettier, React Icons, i18next, axios, react-beautiful-dnd, react-toastify
@@ -17,6 +18,7 @@
 ### Now I’m working:
  - ⚡ [YourMeal food shop (need some time to server wake up)](https://github.com/nos64/methed_burger) -  React, Redux toolkit, redux-persist, React router, React-hook-form, TypeScript, SCSS, ESLint, Prettier, axios
 
+[![Profile badge](https://www.codewars.com/users/nos64/badges/large)](https://www.codewars.com/users/nos64)
 
 ![](https://komarev.com/ghpvc/?username=nos64)
 </h3>
